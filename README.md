@@ -8,7 +8,6 @@ Our analysis focused on the disparate socioeconomic impacts of the London 2020 O
 ## Keywords
 `Modified Synthetic Control Matching`, `Decision Tree Back Attribution`, `Non-stationarity`.
 
----
 ## Contents
 1. `Citadel Data Open 2020 Report.pdf` contains our main report.
 2. `Citadel Data Open 2020 Datafolio.pdf` contains our datafolio, a story-driven visual of our analysis.
