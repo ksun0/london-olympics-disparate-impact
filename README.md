@@ -1,12 +1,9 @@
 # london-olympics-disparate-impact
-Repository for our submission for Citadel 2020 Summer Invitational Data Open.
+Repository for our submission for Citadel 2020 Summer Invitational Data Open. **Keywords**: `Modified Synthetic Control Matching`, `Decision Tree Back Attribution`, `Non-stationarity`.
 
 ## Prompt
 How does hosting the Olympics affect the respective hosts?
 Our analysis focused on the disparate socioeconomic impacts of the London 2020 Olympics on various UK boroughs. :uk:
-
-## Keywords
-`Modified Synthetic Control Matching`, `Decision Tree Back Attribution`, `Non-stationarity`.
 
 ## Contents
 1. `Citadel Data Open 2020 Report.pdf` contains our main report.
