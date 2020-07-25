@@ -3,7 +3,7 @@ Repository for our submission for Citadel 2020 Summer Invitational Data Open. **
 
 ## Prompt
 How does hosting the Olympics affect the respective hosts?
-Our analysis focused on the disparate socioeconomic impacts of the London 2020 Olympics on various UK boroughs. :uk:
+Our analysis focused on the disparate socioeconomic impacts of the London 2012 Olympics on various UK boroughs. :uk:
 
 ## Contents
 1. `Citadel Data Open 2020 Report.pdf` contains our main report.
